@@ -1,4 +1,4 @@
-MountainHike. 
+MountainHike. <br/> 
 This project is to simulate a hiker going down a mountain.  
 The goal of the project is to find a path that safely gets the hiker to the foot of the mountain.  
 Mountain is implemented using self balancing, self implented BST.  
